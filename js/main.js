@@ -11,4 +11,5 @@ function porownanie(a,b) {
     };
 
 };
+
 porownanie(11,10);
